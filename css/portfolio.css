@@ -225,6 +225,8 @@ blockquote p{
 .quote{overflow: hidden}
 .quote h5{margin-bottom: 5px;}
 
+div#testimonials .col-md-6:nth-child(2n+1){clear:left}
+
 /* CONTACT */
 #map-canvas{
     height:400px;
